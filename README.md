@@ -1,4 +1,4 @@
-# Pascals Triangle Generator
+# Pascal's Triangle Generator
 
 ## Breakdown
 Generates a Pascal Triangle and prints it to the console
